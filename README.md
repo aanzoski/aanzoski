@@ -11,6 +11,10 @@ I make ubg sites for my school because ive been doing it since 7th grade. Don't 
 <br>
 # Social
 <b>Youtube</b> - https://www.youtube.com/@anzodevs
+<br>
 <b>Discord</b> - @_aanzoo
+<br>
 <b>X</b> - https://x.com/_Aanzo
+<br>
 <b>Roblox</b> - Phoenix_Shadow231
+<br>
