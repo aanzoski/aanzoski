@@ -10,11 +10,11 @@ I go by anzo online because of <b>az</b> and I always said no to every opportuni
 I make ubg sites for my school because ive been doing it since 7th grade. Don't even know what I want to do after I graduate
 <br>
 # Social
-<b>Youtube</b> - https://www.youtube.com/@anzodevs
+<b>Youtube</b> - @anzodevs
 <br>
 <b>Discord</b> - @_aanzoo
 <br>
-<b>X</b> - https://x.com/_Aanzo
+<b>X</b> - _Aanzo
 <br>
 <b>Roblox</b> - Phoenix_Shadow231
 <br>
