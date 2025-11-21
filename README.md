@@ -1,9 +1,7 @@
 <h1 align="center">Hello my name is anzo</h1>
 <h3 align="center">I like coding for fun. I don't know what I want to do in the future. God will guide me through the correct path</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanzoski&label=Profile%20views&color=ffffff&style=plastic" alt="aanzoski" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_aanzo" target="blank"><img src="https://img.shields.io/twitter/follow/_aanzo?logo=twitter&style=for-the-badge" alt="_aanzo" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aanzoski&label=Profile%20views&color=000000&style=flat-square" alt="aanzoski" /> </p>
 
 - 🛠 Working on: [Relic Ultimate [UBG]](https://github.com/aanzoski/AHS)
 
